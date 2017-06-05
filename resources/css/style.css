@@ -10,6 +10,6 @@ h1 {
 
 }
 
-.header {
-  background-image: image(resources/the-flatiron-building.png);
+header {
+background-image: "image(.resources/the-flatiron-building.png)"";
 }
