@@ -17,6 +17,17 @@ h2 {
 
 }
 
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetic;
+  font-size: 14px;
+
+}
 a {
   color: white;
 }
